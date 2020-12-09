@@ -8,3 +8,4 @@ HW5: Principal Component Analysis
 HW7: Clustering
 HW8: Linear Regression
 HW9: Introduction to Keras
+HW10: CNNs with PyTorch
